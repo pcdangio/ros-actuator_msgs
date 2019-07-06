@@ -8,6 +8,7 @@ SOURCES +=
 DISTFILES += \
     CMakeLists.txt \
     README.md \
+    msg/AxisTarget.msg \
     msg/ServoState.msg \
     msg/ServoTarget.msg \
     package.xml
