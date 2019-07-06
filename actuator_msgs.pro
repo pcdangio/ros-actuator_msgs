@@ -8,4 +8,5 @@ SOURCES +=
 DISTFILES += \
     CMakeLists.txt \
     README.md \
+    msg/ServoTarget.msg \
     package.xml
