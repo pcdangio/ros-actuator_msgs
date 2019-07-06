@@ -4,3 +4,8 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES +=
+
+DISTFILES += \
+    CMakeLists.txt \
+    README.md \
+    package.xml
